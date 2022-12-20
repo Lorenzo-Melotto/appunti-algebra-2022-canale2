@@ -1,6 +1,6 @@
 # Appunti corso algebra a.a. 2022/23
 
-In questa repository sono presenti i pdf delle varie lezioni tenute dal prof. Paolo Papi nell'a.a. 2022/23, scritte in markdown e latex. Le lezioni mancanti sono quelle in cui sono stati corretti gli esericizi dei vari fogli lasciati durante il corso. 
+In questa repository sono presenti i pdf delle varie lezioni tenute dal prof. Paolo Papi nell'a.a. 2022/23, scritte in markdown e latex. Le lezioni mancanti sono quelle in cui sono stati corretti gli esercizi dei vari fogli lasciati durante il corso.
 
 È presente anche un [pdf](./AppuntiAlgebraCompleti.pdf) contenente tutte le lezioni.
 
